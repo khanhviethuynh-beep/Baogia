@@ -1,4 +1,4 @@
-const CACHE = 'baogia-v3';
+const CACHE = 'baogia-v5';
 const FILES = [
   './', './index.html', './manifest.json', './sanpham.json', './icon-180.png', './icon-192.png', './icon-512.png',
   'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js',
